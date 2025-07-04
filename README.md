@@ -5,11 +5,11 @@ Esto es una API desarrollada con **NestJS** y **TypeORM**, utilizando como base 
 Los objetivos principales del taller son:
 
 Desarrollar una API RESTful en NestJS que implemente:
-✅ Buenas prácticas en la estructura del proyecto
-✅ CRUD completo (Create, Read, Update, Delete)
-✅ Validaciones con class-validator y class-transformer
-✅ Manejo de errores con HttpException y HttpStatus
-✅ Conexión a base de datos con TypeORM y al menos 4 entidades relacionadas
+- ✅ Buenas prácticas en la estructura del proyecto
+- ✅ CRUD completo (Create, Read, Update, Delete)
+- ✅ Validaciones con class-validator y class-transformer
+- ✅ Manejo de errores con HttpException y HttpStatus
+- ✅ Conexión a base de datos con TypeORM y al menos 4 entidades relacionadas
 
 ---
 
