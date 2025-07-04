@@ -118,8 +118,8 @@ El archivo exportado está ubicado en la carpeta `/docs`
 
 Este proyecto fue desarrollado por:
 
-**Juan Pablo Contreras**
-Centro de Tecnología de la Manufactura Avanzada – SENA  
+- **Juan Pablo Contreras**
+- Centro de Tecnología de la Manufactura Avanzada – SENA  
   
 ---
 
